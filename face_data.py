@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 import os
-
+#Abhimanyu
 # ===== CONFIG =====
 DATASET_PATH = r"D:\CODE\final year project\Real-time-Face-Recognition-Project\face_dataset"
 HAAR_PATH = r"D:\CODE\final year project\Real-time-Face-Recognition-Project\haarcascade_frontalface_alt.xml"
